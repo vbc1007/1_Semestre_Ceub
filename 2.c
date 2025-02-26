@@ -5,7 +5,7 @@ int main()
     int a, b, x;
 
     printf("Insira dois numeros inteiros: \n");
-    scanf("%i %i", &a, &b);
+    scanf("%i %i", &a, &b); //%i ou %d usar com numeros inteiro
 
     x = a + b;
     printf("A soma dos numeros eh: \n%i", x);
