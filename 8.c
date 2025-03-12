@@ -4,7 +4,7 @@ int main() {
     int NUMERO, HORA;
     float VALORHORA, SALARIO;
 
-    printf ("Qual e o seu numero de funcionarios?: \n");
+    printf ("Qual e o seu numero de funcionario?: \n");
     scanf ("%i",&NUMERO);
 
     printf ("Por quantas horas voce trabalha: \n");
