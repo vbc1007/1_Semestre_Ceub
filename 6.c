@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h> 
+#include <stdlib.h> //serve para funcionar o codigo abaixo
 
-int main(int argc, char *argv[]) 
+int main(int argc, char *argv[]) //ainda não explicou para que serve
 {
 
     float A, B, MEDIA; //float usar para numeros quebrados e que sao maiores
