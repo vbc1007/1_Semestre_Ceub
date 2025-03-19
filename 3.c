@@ -5,7 +5,7 @@ int main() {
 
     pi = 3.14159;
 
-    printf("Insira o raio do circulo: \n");
+    printf("Insira o raio do circulo, para descobrirmos a area dele: \n");
     scanf("%lf",&raio); //%lf usar com numero com virgula
     area= raio*raio*pi;
 

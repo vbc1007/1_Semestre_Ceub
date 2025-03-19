@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) //ainda não explicou para que serve
     float A, B, MEDIA, PESO_A, PESO_B, C; //float usar para numeros quebrados e que sao maiores
 
 
-    printf ("Insira a primeira nota do aluno: \n");
+    printf ("Vamos ver qual e a media dos dois primerios bimestres do aluno, insira a primeira nota do aluno: \n");
     scanf ("%f", &A);
     
     printf ("Qual e o peso da primeira nota?: \n");

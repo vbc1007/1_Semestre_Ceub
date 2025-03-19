@@ -5,13 +5,13 @@ int main() {
     float VALORHORA, SALARIO;
 
     printf ("Qual e o seu numero de funcionario?: \n");
-    scanf ("%i",&NUMERO);
+     scanf ("%i",&NUMERO);
 
     printf ("Por quantas horas voce trabalha: \n");
-    scanf ("%i", &HORA);
+     scanf ("%i", &HORA);
 
     printf ("Quanto voce recebe por hora?: \n");
-    scanf ("%f", &VALORHORA);
+     scanf ("%f", &VALORHORA);
 
     SALARIO = HORA * VALORHORA;
 

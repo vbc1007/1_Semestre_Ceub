@@ -4,7 +4,7 @@ int main()
 {
     int a, b, x;
 
-    printf("Insira dois numeros inteiros: \n");
+    printf("Insira dois numeros inteiros, para soma-los: \n");
     scanf("%i %i", &a, &b); //%i ou %d usar com numeros inteiro
 
     x = a + b;

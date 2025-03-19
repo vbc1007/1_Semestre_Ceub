@@ -9,10 +9,10 @@ int main() {
     printf ("Insira outro numero para multiplica-lo: \n");
     scanf ("%i", &B);
 
-    printf ("Insira novamente outro numero: \n");
+    printf ("Insira novamente outro numero,: \n");
     scanf ("%i", &C);
 
-    printf ("E por ultimo, insira denovo um numero para multiplicarmos; \n");
+    printf ("E por ultimo, insira denovo um numero para multiplicarmos, e subtrairmos com resultado da multiplicacao anterior; \n");
     scanf ("%i", &D);
 
     DIFERENCA = (A * B - C * D);
