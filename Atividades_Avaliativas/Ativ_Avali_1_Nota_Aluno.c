@@ -1,4 +1,6 @@
-#include <stdio.h>
+//RA:22502793
+//ALUNO: Vinicius Bernardes Carneiro#include <stdio.h>
+
 #include <stdlib.h> 
 
 int main(int argc, char *argv[])

@@ -1,3 +1,6 @@
+//RA:22502793
+//ALUNO: Vinicius Bernardes Carneiro
+
 #include <stdio.h>
 int main () 
 {
